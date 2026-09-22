@@ -462,26 +462,19 @@ HTTP bekerja dengan cara client mengirimkan request kepada server kemudian serve
 ## Percobaan 3A — HTTP POST
 
 ### Rangkaian
+<img width="1075" height="1464" alt="image" src="https://github.com/user-attachments/assets/e34046a0-6abb-4795-a952-6ff84cb8a89b" />
 
-```markdown
-<img width="1075" height="1464" alt="image" src="https://github.com/user-attachments/assets/4f91cbdf-c3cc-453c-b0c8-d0bf000f3b49" />
-
-```
 
 ### Output Sebelum Modifikasi
 
-```markdown
-<img width="765" height="471" alt="image" src="https://github.com/user-attachments/assets/d6c5bc8f-a0df-4d7f-8112-64b823b82ac9" />
+<img width="765" height="471" alt="image" src="https://github.com/user-attachments/assets/fd9c1a43-4ea0-4c02-9deb-4e1dc37e7750" />
 
-```
 
 ### Output Setelah Modifikasi
 
 
-```markdown
-<img width="540" height="460" alt="image" src="https://github.com/user-attachments/assets/c7404290-32bf-4ef8-957a-be5c3399e4e7" />
+<img width="540" height="460" alt="image" src="https://github.com/user-attachments/assets/605cdb44-d396-4fad-babb-e2b6222e0dcf" />
 
-```
 
 ---
 
@@ -489,18 +482,14 @@ HTTP bekerja dengan cara client mengirimkan request kepada server kemudian serve
 
 ### Rangkaian
 
-```markdown
-<img width="1075" height="1464" alt="image" src="https://github.com/user-attachments/assets/3f61c005-1792-4ce8-ac2e-f733ecfc122f" />
+<img width="750" height="341" alt="image" src="https://github.com/user-attachments/assets/b62b7655-6d69-41c6-9b0c-e7390d020d22" />
 
-```
 
 
 ### MQTT Explorer 
 
-```markdown
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/95cf6f84-0095-4128-b2af-99e82f0c6bc8" />
 
-```
 
 ---
 
