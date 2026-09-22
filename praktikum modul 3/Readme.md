@@ -463,26 +463,24 @@ HTTP bekerja dengan cara client mengirimkan request kepada server kemudian serve
 
 ### Rangkaian
 
-Tambahkan foto rangkaian ESP8266 pada bagian ini.
-
 ```markdown
-![Rangkaian HTTP](NamaFileFoto.jpg)
+<img width="1075" height="1464" alt="image" src="https://github.com/user-attachments/assets/4f91cbdf-c3cc-453c-b0c8-d0bf000f3b49" />
+
 ```
 
 ### Output Sebelum Modifikasi
 
-Tambahkan screenshot Serial Monitor sebelum modifikasi.
-
 ```markdown
-![HTTP Sebelum Modifikasi](NamaFileFoto.jpg)
+<img width="765" height="471" alt="image" src="https://github.com/user-attachments/assets/d6c5bc8f-a0df-4d7f-8112-64b823b82ac9" />
+
 ```
 
 ### Output Setelah Modifikasi
 
-Tambahkan screenshot Serial Monitor setelah penambahan field `waktu`.
 
 ```markdown
-![HTTP Setelah Modifikasi](NamaFileFoto.jpg)
+<img width="540" height="460" alt="image" src="https://github.com/user-attachments/assets/c7404290-32bf-4ef8-957a-be5c3399e4e7" />
+
 ```
 
 ---
@@ -491,22 +489,17 @@ Tambahkan screenshot Serial Monitor setelah penambahan field `waktu`.
 
 ### Rangkaian
 
-Tambahkan foto perangkat pada saat percobaan MQTT.
-
 ```markdown
-![Rangkaian MQTT](NamaFileFoto.jpg)
+<img width="1075" height="1464" alt="image" src="https://github.com/user-attachments/assets/3f61c005-1792-4ce8-ac2e-f733ecfc122f" />
+
 ```
 
-### MQTT Explorer Sebelum Modifikasi
+
+### MQTT Explorer 
 
 ```markdown
-![MQTT Sebelum Modifikasi](NamaFileFoto.jpg)
-```
+![Uploading image.png…]()
 
-### MQTT Explorer Setelah Modifikasi
-
-```markdown
-![MQTT Setelah Modifikasi](NamaFileFoto.jpg)
 ```
 
 ---
